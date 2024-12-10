@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/modules.xml
+.idea/PracForPullReq.iml
+.idea/vcs.xml
